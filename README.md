@@ -209,9 +209,9 @@ console.log(bhaveshBhavsar.say());
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0d1b2a&labelColor=1b6b93)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-00D9FF?style=for-the-badge&logo=instagram&logoColor=0d1b2a&labelColor=1b6b93)](https://instagram.com/YOUR-INSTAGRAM)
-[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=0d1b2a&labelColor=1b6b93)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0d1b2a&labelColor=1b6b93)](https://www.linkedin.com/in/bhavesh-bhavsar-506647359/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-00D9FF?style=for-the-badge&logo=instagram&logoColor=0d1b2a&labelColor=1b6b93)](https://instagram.com/20.bhaveshhh)
+[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=0d1b2a&labelColor=1b6b93)](mailto:bhaveshbhavsar09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00D9FF?style=for-the-badge&logo=github&logoColor=0d1b2a&labelColor=1b6b93)](https://github.com/bhaveshbhavsar09)
 
 </div>
